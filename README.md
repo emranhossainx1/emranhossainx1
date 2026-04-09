@@ -48,14 +48,14 @@ A **Cybersecurity Professional** specializing in **Offensive Security, Red Teami
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ---
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emranhossainx1&theme=radical&hide_border=true&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emranhossainx1&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emranhossainx1&theme=radical&hide_border=true&layout=compact)
 
 ---
-
+-->
 ## 🏆 Achievements:
 - 🥇 Top 1% on TryHackMe  
 - 🎓 Google Cybersecurity Professional Certificate  
@@ -67,6 +67,7 @@ A **Cybersecurity Professional** specializing in **Offensive Security, Red Teami
 > "Break. Learn. Secure. Repeat." 🔁  
 
 ---
-
+<!--
 ## 👀 Profile Views:
 ![](https://visitcount.itsvg.in/api?id=emranhossainx1&icon=5&color=12)
+-->
