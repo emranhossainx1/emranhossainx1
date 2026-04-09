@@ -4,8 +4,9 @@ Hi, I'm **Emran Hossain** 👋
 
 🔐 I identify real-world vulnerabilities and help organizations strengthen their security posture.  
 💻 Working as a **Jr. Cybersecurity Engineer & Bid Writing Executive**  
-🐞 Active in **Bug Bounty Hunting** (HackerOne, PortSwigger Labs)  
-🏆 **Top 1% on TryHackMe**  
+🐞 Active in **Bug Bounty Hunting** (HackerOne, Bugcrowd)
+🛡️ Providing **Penetration Testing Services** (Fiverr, Upwork)
+🏆 **Top 1% on TryHackMe and PortSwigger**  
 🚀 Passionate about breaking systems ethically to make them more secure.  
 🎯 Target: Becoming a **Red Team Operator** at top tech companies (Google, Microsoft)  
 
