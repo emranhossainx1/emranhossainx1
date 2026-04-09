@@ -10,7 +10,7 @@ A **Cybersecurity Professional** specializing in **Offensive Security, Red Teami
 🚀 Passionate about breaking systems ethically to make them more secure.  
 🎯 Target: Becoming a **Red Team Operator** at top tech companies (Google, Microsoft)  
 
----
+
 
 ## 🧠 Expertise:
 - 🔎 Web Application Penetration Testing (VAPT)  
